@@ -9,13 +9,20 @@ Showing progress visually is very handy in UI design, but it’s even more impor
 
 ### The Brief ###
 
-Take the design assets and build a progress stepper component, using whatever technology you like. You should aim for the following, at a minimum:
+Take the design assets and build a progress stepper component, using whatever technology you like.
+
+You should aim for the following, at a minimum:
 
 * Your solution uses semantic HTML
 * Your solution could work with a handful of items or a lot of items
 * Long items and short items should work harmoniously
 * Responsive and works in various browsers
+
+### Other Notes ###
+
 * Animations and interaction effects are up to you
+* Commit to this repo as you go
+* We will be asking about your approach and how long it took in the end 
 
 ### Assets ###
 
