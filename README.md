@@ -17,6 +17,8 @@ You should aim for the following, at a minimum:
 * Your solution could work with a handful of items or a lot of items
 * Long items and short items should work harmoniously
 * Responsive and works in various browsers
+* Make it accessible
+* Describe improvement opportunities when you conclude
 
 ### Other Notes ###
 
