@@ -4,6 +4,8 @@ Showing progress visually is very handy in UI design, but it’s even more impor
 
 ### What you’re building ###
 
+![Scheme](https://piccalilli.imgix.net/images/blog/fecc/challenge-008.jpg)
+
 * Quick summary
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
