@@ -15,6 +15,7 @@ Take the design assets and build a progress stepper component, using whatever te
 * Your solution could work with a handful of items or a lot of items
 * Long items and short items should work harmoniously
 * Responsive and works in various browsers
+* Animations and interaction effects are up to you
 
 ### Assets ###
 
