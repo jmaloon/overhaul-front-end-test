@@ -10,7 +10,7 @@ Showing progress visually is very handy in UI design, but it’s even more impor
 
 ### The Brief ###
 
-* Take the design assets and build a progress stepper component, using whatever technology you like. You should aim for the following, at a minimum:
+Take the design assets and build a progress stepper component, using whatever technology you like. You should aim for the following, at a minimum:
 
 * Your solution uses semantic HTML
 * Your solution could work with a handful of items or a lot of items
@@ -21,14 +21,14 @@ Showing progress visually is very handy in UI design, but it’s even more impor
 Here’s some assets to get you going:
 
 * Figma https://www.figma.com/file/doT5l1vwoFHXJZjv7bkHtZ/Challenge-Progress-Stepper
-* Saira Condensed font
-* Asap font
+* Saira Condensed font https://fonts.google.com/specimen/Saira+Condensed
+* Asap font https://fonts.google.com/specimen/Asap
 
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Hiring Manager (likely Matt) 
+* Team contact
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdoT5l1vwoFHXJZjv7bkHtZ%2FChallenge-Progress-Stepper" allowfullscreen></iframe>
 
