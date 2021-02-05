@@ -6,9 +6,6 @@ Showing progress visually is very handy in UI design, but it’s even more impor
 
 ![Scheme](https://piccalilli.imgix.net/images/blog/fecc/challenge-008.jpg)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### The Brief ###
 
@@ -17,6 +14,7 @@ Take the design assets and build a progress stepper component, using whatever te
 * Your solution uses semantic HTML
 * Your solution could work with a handful of items or a lot of items
 * Long items and short items should work harmoniously
+* Responsive and works in various browsers
 
 ### Assets ###
 
