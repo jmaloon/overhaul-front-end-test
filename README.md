@@ -23,7 +23,7 @@ You should aim for the following, at a minimum:
 ### Other Notes ###
 
 * Animations and interaction effects are up to you
-* Commit to this repo as you go
+* Commit to this repo as you go - please make a branch for your work where we will evaluate the final thing.
 * We will be asking about your approach and how long it took in the end 
 
 ### Assets ###
