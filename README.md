@@ -40,6 +40,6 @@ Here’s some assets to get you going:
 * Hiring Manager (likely Matt) 
 * Another member of the dev team
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdoT5l1vwoFHXJZjv7bkHtZ%2FChallenge-Progress-Stepper" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdoT5l1vwoFHXJZjv7bkHtZ%2FChallenge-Progress-Stepper" allowfullscreen></iframe>
 
 
