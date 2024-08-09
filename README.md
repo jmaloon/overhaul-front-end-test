@@ -35,11 +35,6 @@ Here’s some assets to get you going:
 * Asap font https://fonts.google.com/specimen/Asap
 
 
-### Who do I talk to? ###
 
-* Hiring Manager (likely Matt) 
-* Another member of the dev team
-
-<iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdoT5l1vwoFHXJZjv7bkHtZ%2FChallenge-Progress-Stepper" allowfullscreen></iframe>
 
 
