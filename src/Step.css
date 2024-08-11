@@ -1,0 +1,16 @@
+.step {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+}
+
+.step-counter {
+  position: absolute;
+  top: -7px;
+  left: -10px;
+}
+
+.step-overline {
+  z-index: 1;
+}
