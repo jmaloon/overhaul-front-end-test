@@ -1,3 +1,17 @@
+# Solution: Progress Stepper
+
+Built with Vite + React + TS
+
+## How to run
+
+- `npm install`
+- `npm run dev`
+
+## Preview
+
+<img width="646" alt="Screenshot 2024-08-11 at 12 06 17 PM" src="https://github.com/user-attachments/assets/e1f69e33-c23c-4c76-a78c-afcca021e3c2">
+
+
 # Challenge: Progress Stepper #
 
 Showing progress visually is very handy in UI design, but it’s even more important to make sure that it’s implemented semantically too. In this challenge, that’s the goal!
