@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 :root {
   background: rgba(255, 255, 255, 1);
 }
@@ -44,4 +50,12 @@
   font-size: 23px;
   line-height: 23px;
   color: rgba(39, 71, 78, 1);
+}
+
+#root {
+  min-height: 100vh;
+
+  display: grid;
+  place-items: center;
+  padding: 20px;
 }
