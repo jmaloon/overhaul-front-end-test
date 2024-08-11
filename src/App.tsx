@@ -6,23 +6,31 @@ function App() {
     <div className="progress-wrapper">
       <ol className="progress">
         <li className="progress-step progress-step__past">
+          <span className="text-counter progress-step-counter">01</span>
           <span className="visually-hidden">Completed: </span>
-          <span className="progress-step">Step one</span>
-          <span className="progress-label">Your basket</span>
+          <span className="text-overline progress-step-overline">Step one</span>
+          <span className="text-label">Your basket</span>
         </li>
         <li className="progress-step progress-step__past">
+          <span className="text-counter progress-step-counter">02</span>
           <span className="visually-hidden">Completed: </span>
-          <span className="progress-step">Step two</span>
-          <span className="progress-label">Your details</span>
+          <span className="text-overline progress-step-overline">Step two</span>
+          <span className="text-label">Your details</span>
         </li>
         <li className="progress-step progress-step__current">
+          <span className="text-counter progress-step-counter">03</span>
           <span className="visually-hidden">Completed: </span>
-          <span className="progress-step">Step three</span>
-          <span className="progress-label">Payment</span>
+          <span className="text-overline progress-step-overline">
+            Step three
+          </span>
+          <span className="text-label">Payment</span>
         </li>
         <li className="progress-step">
-          <span className="progress-step">Step four</span>
-          <span className="progress-label">Order complete</span>
+          <span className="text-counter progress-step-counter">04</span>
+          <span className="text-overline progress-step-overline">
+            Step four
+          </span>
+          <span className="text-label">Order complete</span>
         </li>
       </ol>
     </div>

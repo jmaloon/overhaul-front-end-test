@@ -12,3 +12,36 @@
   clip-path: inset(50%);
   white-space: nowrap;
 }
+
+.text-counter {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+
+  font-size: 23px;
+  line-height: 23px;
+  color: rgba(239, 241, 241, 1);
+}
+
+.text-overline {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  font-size: 16px;
+  line-height: 14px;
+  text-transform: uppercase;
+  color: rgba(73, 105, 112, 1);
+}
+
+.text-label {
+  font-family: "Asap", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+
+  font-size: 23px;
+  line-height: 23px;
+  color: rgba(39, 71, 78, 1);
+}
