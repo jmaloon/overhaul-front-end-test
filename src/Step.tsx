@@ -17,7 +17,7 @@ export default function Step({
 }: StepProps) {
   return (
     <li className="step">
-      <div className="step-visual">
+      <div className="step-visual" data-state={state}>
         {state === "completed" ? (
           <img
             alt="checkmark"

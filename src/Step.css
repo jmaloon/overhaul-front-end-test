@@ -5,10 +5,23 @@
   padding-top: 8px;
   padding-left: 4px;
 }
+.step:last-child > .step-visual::before {
+  content: none;
+}
 
 .step-visual {
   padding-top: 8px;
 }
+.step-visual[data-state="completed"]::before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: calc(100% + 10px);
+  top: 31px;
+  left: 11px;
+  background-color: #f3344a;
+}
+
 .step-indicator {
   width: 16px;
   height: 16px;
