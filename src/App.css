@@ -1,6 +1,5 @@
 .progress-wrapper {
   width: fit-content;
-  min-width: 329px;
 
   padding: 21px 89px 25px 41px;
 
@@ -20,4 +19,10 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
+}
+
+@media (min-width: 600px) {
+  .progress-wrapper {
+    min-width: 329px;
+  }
 }
