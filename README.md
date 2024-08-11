@@ -9,7 +9,7 @@ Built with Vite + React + TS
 
 ## Preview
 
-<img width="400" alt="Screenshot 2024-08-11 at 12 06 17 PM" src="https://github.com/user-attachments/assets/e1f69e33-c23c-4c76-a78c-afcca021e3c2">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/dedd582c-e2c8-422a-8541-798abe26027e">
 
 ## Opportunities for Improvement
 
