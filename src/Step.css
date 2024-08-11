@@ -1,10 +1,24 @@
 .step {
   position: relative;
   display: flex;
-  flex-direction: column;
+  gap: 19px;
   padding-top: 8px;
+  padding-left: 4px;
 }
 
+.step-visual {
+  padding-top: 8px;
+}
+.step-indicator {
+  width: 16px;
+  height: 16px;
+}
+
+.step-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
 .step-counter {
   position: absolute;
   top: -7px;
