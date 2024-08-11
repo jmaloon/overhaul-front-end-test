@@ -9,7 +9,16 @@ Built with Vite + React + TS
 
 ## Preview
 
-<img width="646" alt="Screenshot 2024-08-11 at 12 06 17 PM" src="https://github.com/user-attachments/assets/e1f69e33-c23c-4c76-a78c-afcca021e3c2">
+<img width="400" alt="Screenshot 2024-08-11 at 12 06 17 PM" src="https://github.com/user-attachments/assets/e1f69e33-c23c-4c76-a78c-afcca021e3c2">
+
+## Opportunities for Improvement
+
+- Add interactivity and animation
+  - Would likely change the rendering of the progress indicator to an inline SVG so the elements could be animated better.
+- Refactor step indicator into it's own component
+- Use a utility to generate the word version of the index/step so redundant props aren't passed to the `<Steps />` component
+  - e.g. Generate "four" from the number 4
+- Improve CSS architecture, using variables to capture the design system and more modular classes to reduce duplication
 
 
 # Challenge: Progress Stepper #
