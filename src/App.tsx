@@ -1,5 +1,6 @@
 import "./App.css";
 
+// Progress architecture comes from https://www.w3.org/WAI/tutorials/forms/multi-page/#using-the-html5-progress-element
 function App() {
   return (
     <div className="progress-wrapper">

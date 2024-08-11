@@ -1,0 +1,28 @@
+.progress-wrapper {
+  width: fit-content;
+  min-width: 329px;
+
+  padding: 21px 89px 25px 41px;
+
+  background: rgba(253, 253, 253, 1);
+  border: 1px solid rgba(235, 240, 241, 1);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px 0px rgba(39, 71, 78, 0.1),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.progress {
+  /* reset list styles */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.progress-step {
+  display: flex;
+  flex-direction: column;
+}
