@@ -1,6 +1,7 @@
 import "./Step.css";
 import stepCompletedSrc from "./assets/step-completed.svg";
 import stepCurrentSrc from "./assets/step-current.svg";
+import stepDefaultSrc from "./assets/step-default.svg";
 
 type StepProps = {
   stepNumber: number;
@@ -25,9 +26,17 @@ export default function Step({
             src={stepCompletedSrc}
           />
         ) : state === "current" ? (
-          <img alt="" className="step-indicator" src={stepCurrentSrc} />
+          <img
+            alt="active circle"
+            className="step-indicator"
+            src={stepCurrentSrc}
+          />
         ) : (
-          <div className="step-indicator" />
+          <img
+            alt="inactive circle"
+            className="step-indicator"
+            src={stepDefaultSrc}
+          />
         )}
       </div>
       <div className="step-content">
